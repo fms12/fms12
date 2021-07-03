@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects 
-- 🥅 Try to be competative programmer
+- 🥅 Try to be competitive programmer
 - ⚡ Fun fact: I love to draw and play vollyball
 
 
