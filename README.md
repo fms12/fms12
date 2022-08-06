@@ -1,7 +1,7 @@
 ### Hi there, I'm Mayank Singh aka  [fms12] 👋
 
 
-## I'm a CSE Student, Developer, technology Enthusiast!!
+## I'm a Developer, technology Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
