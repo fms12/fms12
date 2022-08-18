@@ -1,11 +1,11 @@
                                             ### Hi there, I'm Mayank Singh aka  [fms12] 👋
 
 
-## I'm a Developer, technology Enthusiast!!
+## I'm a Developer, Open Source Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-<!-- - 🥅 2021 Goals: Contribute more to Open Source projects  -->
+- 🥅 2022 Goals: Contribute more to Open Source projects 
 - 🥅 Try to be competitive programmer
 - ⚡ Fun fact: I love to draw and play volleyball
 
