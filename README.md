@@ -3,12 +3,19 @@
 
 ## I'm a Developer, Open Source Enthusiast!!
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects 
 - 🥅 Try to be competitive programmer
 - ⚡ Fun fact: I love to draw and play volleyball
 
+#### Bio
+
+- 🌱 I’m currently learning everything 🤣
+- ⚙️ I use daily: `.py`, `.cpp`
+- 🌍 I'm mostly active within the **Python Community**
+- 🌱 Learning all about **How to do Contribute more to Open Source projects **
+- 💬 Ping me about **Django**, **Python**, **ReactJs**, **RestAPIs**
+- 📝 Checkout my [Resume](files/resume.pdf).
 
 
 
@@ -42,13 +49,19 @@
 <br />
 <br />
 
+#### Development Stuffs:
 
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
- ![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=fms12&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fms12/github)
-
-
-
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+</p>
 
 
 [leetcode]: https://leetcode.com/fms/
