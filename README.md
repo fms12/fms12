@@ -3,7 +3,7 @@
 [<img align="left" alt="mayank singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="mayank singh | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="mayank singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="fms12" />
 <br />
 
 ### I'm a Developer, Open Source Enthusiast!!
