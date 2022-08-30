@@ -1,9 +1,19 @@
 ### Hi there, I'm Mayank Singh aka  [fms12] 👋
 
-[<img align="left" alt="mayank singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="mayank singh | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="mayank singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img src="https://komarev.com/ghpvc/?username=fms12" alt="visitors" />
+<p>
+<a href="https://codeforces.com/profile/fms00">
+  <img src="https://img.shields.io/badge/codeforces-%230077B5.svg?&style=for-the-badge&logo=codeforces&logoColor=red" height=25>
+</a> 
+<a href="https://www.codechef.com/users/fms12">
+  <img src="https://img.shields.io/badge/codechef-%230077B5.svg?&style=for-the-badge&logo=codechef&logoColor=brown" height=25>
+</a> 
+<a href= "https://leetcode.com/fms/">
+  <img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/mayank-singh-b10ba018a/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+</p>
 <br />
 
 ### I'm a Developer, Open Source Enthusiast!!
