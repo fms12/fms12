@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚙️ I use daily: `.py`, `.cpp`
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **How to do Contribute more to Open Source projects **
+- 🌱 Learning all about **How to do Contribute more to Open Source projects**
 - 💬 Ping me about **Django**, **Python**, **ReactJs**, **RestAPIs**
 - 📝 Checkout my [Resume](files/resume.pdf).
 
