@@ -52,6 +52,9 @@
 <br />
 <br />
 
+## Badges
+[![@fms12's Holopin board](https://holopin.me/fms12)](https://holopin.io/@fms12)
+
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
