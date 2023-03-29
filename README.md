@@ -23,7 +23,7 @@
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **How to do Contribute more to Open Source projects**
 - 💬 Ping me about **Django**, **Python**, **ReactJs**, **RestAPIs**
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1YprSqOWA_HZGvZ865Wn0E04AMZGVEocn/view?usp=share_link).
 
 
 
@@ -52,8 +52,7 @@
 <br />
 <br />
 
-## Badges
-[![@fms12's Holopin board](https://holopin.me/fms12)](https://holopin.io/@fms12)
+
 
 #### Development Stuffs:
 
